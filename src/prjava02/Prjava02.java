@@ -20,6 +20,7 @@ public class Prjava02
             System.out.println("Sistema operatiu: " + System.getProperty("os.name")); 
             System.out.println("Versió OS: " + System.getProperty("os.version"));
 	    System.out.println("Arquitecura OS: " + System.getProperty("os.arch"));
+            System.out.println("Afegint codi a la branca01 del projecte prjava02");
 <<<<<<< HEAD
             System.out.println("Creació d'una branca del projecte prjava02");
        }
